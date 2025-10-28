@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm Ronald Josué Mijares Hernández
 
-<!--
-**ROJOmh/ROJOmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Reemplaza el enlace por la ruta de tu foto (puede ser local o un enlace externo) -->
+<p align="center">
+  <img src="./imagenes/copia2.jpg" alt="Foto de perfil" width="150" style="border-radius:50%">
+</p>
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software developer learning the way about how to be a Full Stack programmer from scratch.
+
+- 🌱 At the moment: Learning how to be a Full Stack Programmer by the hand of Conquer Blocks
+- 🎯 Objetives: Create an stunishing website.
+
+## 🔧 Tools
+
+- Python
+
+## 📫 Contact
+- ✉️ Email: ronaltrabajoeu@gmail.com
+- 💼 LinkedIn: (https://linkedin.com/in/ronald-mijares-hernández-60a238317)
+
+
+---
