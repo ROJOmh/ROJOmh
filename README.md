@@ -5,7 +5,7 @@
   <img src="./imagenes/copia2.jpg" alt="Foto de perfil" width="150" style="border-radius:50%">
 </p>
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
 Software developer learning the way about how to be a Full Stack programmer from scratch.
 
